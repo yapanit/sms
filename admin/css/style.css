@@ -1,0 +1,8 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css");
+@import url("https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css");
+@import "../fonts/css/font-awesome.min.css";
+@import "sidebar.css";
+
+body{
+    padding-bottom: 40px;
+}
